@@ -3,7 +3,8 @@ body {
     margin: 50px;
 }
 
-h1 {
+h1.center-text {
+    text-align: center;
     color: #333;
 }
 
